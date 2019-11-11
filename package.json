@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/cocoarocket/nodejs-course-iliakan/issues"
   },
-  "homepage": "https://github.com/cocoarocket/nodejs-course-iliakan#readme"
+  "homepage": "https://github.com/cocoarocket/nodejs-course-iliakan#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
